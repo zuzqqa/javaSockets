@@ -1,4 +1,5 @@
-# javaSockets https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
+# javaSockets [![github]( https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)]
+
 ## **PL:**
 **Aplikacja umożliwiająca komunikację sieciową między dwoma niezależnie uruchamianymi komponentami: serwerem i klientem**, wykorzystując protokół HTTP. Protokół opiera się na użytkowniku wysyłającym żądania i otrzymującym odpowiedzi zwrotne. Serwer odpowiedzialny jest za nasłuchiwanie na połączenia i obsługę wielu klientów za pomocą wątków. Klient natomiast nawiązuje połączenie po swojej stronie i wysyła żądania do serwera.
 
